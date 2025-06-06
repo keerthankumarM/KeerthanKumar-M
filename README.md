@@ -10,7 +10,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/keerthankumarmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/keerthankumarmm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/keerthan_kumar_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/keerthan_kumar_m/" height="30" width="40" /></a>
 </p>
-## 💼 *Professional Journey*  
+💼 [Professional Journey] 
 
 ### *Frontend developer Intern*  
 [*Unified Mentor](https://www.unifiedmentor.com/) | *APR 2025 – May 2025 
