@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | 🔧 C Programmer | 🎨 UI/UX Enthusiast | 💡 Real-time Systems Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
+  <img  right="200" width="500" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
 </p>
 
 ---
