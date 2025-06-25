@@ -1,34 +1,110 @@
-
 <h1 align="center">Hi 👋, I'm Keerthan Kumar M</h1>
-<h3 align="center">Passionate about efficient C Programming, I'm dedicated to creating robust software. My focus? Real-time systems and complex algorithms. I take pride in crafting clean, reliable code. Besides programming, I'm a keen problem solver and love diving into new tech. Excited to keep learning and growing in Software Development.</h3>
-<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">🚀 Software Developer | 🔧 C Programmer | 🎨 UI/UX Enthusiast | 💡 Real-time Systems Explorer</h3>
 
-
-
-<h2 align="left">Connect with me</h2>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/keerthan-kumar-m-793a97332?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b5kvjhpuiqqoetvqrzmhp1q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keerthan-kumar-m-793a97332?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b5kvjhpuiqqoetvqrzmhp1q%3d%3d" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/keerthankumarmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/keerthankumarmm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/keerthan_kumar_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/keerthan_kumar_m/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
 </p>
-💼 [Professional Journey] 
 
-### *Frontend developer Intern*  
-[*Unified Mentor](https://www.unifiedmentor.com/) | *APR 2025 – May 2025 
-- Designed and developed responsive user interfaces using modern frontend technologies.
-- Optimized web applications for performance and cross-browser compatibility.
+---
 
-- Gained hands-on experience with HTML, CSS, JavaScript, and frontend frameworks like React.js/Vue.js
-  
+### 👨‍💻 About Me
 
+I'm a passionate software developer with a strong focus on:
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🔧 **Efficient C Programming**
+- 🔄 **Real-Time Systems**
+- 💻 **Frontend Development (React, Vue, HTML/CSS)**
+- 🎨 **UI/UX Design using Figma, wireframes, prototyping**
+- 🧠 **Problem Solving & Algorithms**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthankumarm&show_icons=true&locale=en&layout=compact" alt="keerthankumarm" /></p>
+I take pride in writing clean, robust, and scalable code. I love learning new technologies and exploring how systems work under the hood.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthankumarm&show_icons=true&locale=en" alt="keerthankumarm" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthankumarm&" alt="keerthankumarm" /></p>
+### 🌐 Connect with Me
 
-![Footer Animation](https://raw.githubusercontent.com//keerthankumarM/KeerthanKumar-M/output/github-snake.svg)
+<p>
+  <a href="https://www.linkedin.com/in/keerthan-kumar-m-793a97332/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.hackerrank.com/keerthankumarmm" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/keerthan_kumar_m/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💼 Experience
+
+**Frontend Developer Intern**  
+[Unified Mentor](https://www.unifiedmentor.com/) | *April 2025 – May 2025*
+
+- Developed responsive UIs using **HTML, CSS, JavaScript**.
+- Built interactive components using **React.js** and **Vue.js**.
+- Optimized performance and ensured cross-browser compatibility.
+
+---
+
+### 🧠 UI/UX Design
+
+- 🎨 Designed wireframes and prototypes using **Figma**
+- 👥 Focused on **user-centered design** for better accessibility and usability
+- 🧪 Conducted basic usability testing and incorporated feedback into interfaces
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+**Databases:**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthankumarm&show_icons=true&theme=radical" alt="Keerthan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthankumarm&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthankumarm&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/keerthankumarm/keerthankumarm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+🕵️ I enjoy debugging even more than coding. Finding the root cause is like solving a mini mystery!
