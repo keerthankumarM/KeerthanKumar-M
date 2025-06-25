@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | 🔧 C Programmer | 🎨 UI/UX Enthusiast | 💡 Real-time Systems Explorer</h3>
 
 <p align="center">
-  <img  right="200" width="500" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation"/>
 </p>
 
 ---
@@ -42,23 +42,54 @@ I take pride in writing clean, robust, and scalable code. I love learning new te
 **Frontend Developer Intern**  
 [Unified Mentor](https://www.unifiedmentor.com/) | *April 2025 – May 2025*
 
-- Developed responsive UIs using **HTML, CSS, JavaScript**.
-- Built interactive components using **React.js** and **Vue.js**.
-- Optimized performance and ensured cross-browser compatibility.
+- Developed responsive UIs using **HTML, CSS, JavaScript**
+- Built interactive components using **React.js** and **Vue.js**
+- Optimized performance and ensured cross-browser compatibility
 
 ---
 
-### 🧠 UI/UX Design
+### 🎨 UI/UX Design Portfolio
 
-- 🎨 Designed wireframes and prototypes using **Figma**
-- 👥 Focused on **user-centered design** for better accessibility and usability
-- 🧪 Conducted basic usability testing and incorporated feedback into interfaces
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/User%20Experience-%2300ADD8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/User%20Interface-%23FFD700?style=for-the-badge&logoColor=black"/>
+</p>
+
+#### 📌 Key Skills:
+- 🎯 **User-Centered Design**
+- ✍️ **Wireframing & Prototyping**
+- 🧪 **Usability Testing**
+- 🔄 **Iterative Design Workflow**
+
+#### 🔧 Tools I Use:
+| Tool        | Purpose                     |
+|-------------|-----------------------------|
+| **Figma**   | UI Design, Prototyping      |
+| **Canva**   | Visual Assets, Icons        |
+| **Balsamiq**| Low-Fidelity Wireframes     |
+| **Whimsical**| User Flow Diagrams         |
+| **Notion**  | Design Documentation        |
+
+---
+
+### 🧪 Sample Projects
+
+#### 💡 **Task Management App UI**
+- Designed minimalist UI in Figma
+- Prioritized user accessibility
+
+#### 🛒 **E-Commerce Redesign**
+- Improved navigation & usability
+- Added smart product filters
+
+#### 📱 **Health Tracker App**
+- Accessible-first approach (WCAG)
+- Custom visualizations
 
 ---
 
 ### 🛠️ Tech Stack
-
-**Languages & Frameworks:**
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -84,15 +115,11 @@ I take pride in writing clean, robust, and scalable code. I love learning new te
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthankumarm&show_icons=true&theme=radical" alt="Keerthan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthankumarm&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthankumarm&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthankumarm&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthankumarm&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthankumarm&theme=radical" />
 </p>
 
 ---
