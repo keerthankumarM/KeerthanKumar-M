@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthan Kumar M</h1>
-<h3 align="center">🚀 Software Developer | 🔧 C Programmer | 🎨 UI/UX Enthusiast | 💡 Real-time Systems Explorer</h3>
+<h3 align="center">🚀 Software Developer | 🔧 C Programmer | 💡 Real-time Systems Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation"/>
@@ -14,7 +14,6 @@ I'm a passionate software developer with a strong focus on:
 - 🔧 **Efficient C Programming**
 - 🔄 **Real-Time Systems**
 - 💻 **Frontend Development (React, Vue, HTML/CSS)**
-- 🎨 **UI/UX Design using Figma, wireframes, prototyping**
 - 🧠 **Problem Solving & Algorithms**
 
 I take pride in writing clean, robust, and scalable code. I love learning new technologies and exploring how systems work under the hood.
@@ -47,8 +46,7 @@ I take pride in writing clean, robust, and scalable code. I love learning new te
 - Optimized performance and ensured cross-browser compatibility
 
 ---
-
-### 🎨 UI/UX Design Portfolio
+ Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
