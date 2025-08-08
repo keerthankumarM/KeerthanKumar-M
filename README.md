@@ -73,17 +73,8 @@ I take pride in writing clean, robust, and scalable code. I love learning new te
 
 ### 🧪 Sample Projects
 
-#### 💡 **Task Management App UI**
-- Designed minimalist UI in Figma
+#### 💡 **Weather App**
 - Prioritized user accessibility
-
-#### 🛒 **E-Commerce Redesign**
-- Improved navigation & usability
-- Added smart product filters
-
-#### 📱 **Health Tracker App**
-- Accessible-first approach (WCAG)
-- Custom visualizations
 
 ---
 
